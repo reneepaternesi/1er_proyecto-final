@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Bowie Off White",
+        "price": 19990,
+        "img": "BOWIE_OFF-WHITE.jpg",
+        "quantity": 10
+    },
+    {
+        "id": 3,
+        "name": "Madonna Animal Print Nude",
+        "price": 19990,
+        "img": "MADONNA_ANIMAL_PRINT_NUDE.jpg",
+        "quantity": 5
+    },
+    {
+        "id": 2,
+        "name": "Daphne Aqua",
+        "price": 22900,
+        "img": "DAPHNE_AQUA.jpg",
+        "quantity": 2
+    },
+    {
+        "id": 4,
+        "name": "Yoko Nude",
+        "price": 19990,
+        "img": "YOKO_NUDE.jpg",
+        "quantity": 0
+    }
+]
